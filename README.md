@@ -2,7 +2,7 @@
 
 The project was intended to extract meaningful information from the ethereum data which has around 1 billion rows for period 2015-2019 and takes space of around 4GB.
 Hadoop clusters was used to extract and process the data. MapReduce famous libarry Mrjob has been used to write the python code.
-The code aimed to find the ethereum transactions over time, top 10 transactions
+The code aimed to find the ethereum transactions over time, top 10 transactions and Gas Price(A general reference for approximate transaction fees on the Ethereum blockchain, gas price refers to the amount of ETH (in a small unit called gwei) that must be paid to miners for processing transactions on the network).
 
 Results : 
 
